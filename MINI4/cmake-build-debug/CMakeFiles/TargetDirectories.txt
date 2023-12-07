@@ -1,0 +1,2 @@
+C:/Users/bohan/Desktop/MINI4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bohan/Desktop/MINI4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,186 @@
+commit 8b26c7b3d1e5c39e1fcdbcb11e08b80de6ab4f76
+Author: Yanlin Zhu <yzhu445@teach-node-09.CS.McGill.CA>
+Date:   Wed Apr 12 21:58:53 2023 -0400
+
+    small changes on makefile
+
+commit e07bb0785bf58a10c472c40bfb916e8cc8ee1ac1
+Author: Yanlin Zhu <yzhu445@teach-node-09.CS.McGill.CA>
+Date:   Wed Apr 12 20:44:25 2023 -0400
+
+    change the error message, really the fianl draftttgit add .
+
+commit 41d34b7b53c9602d8a46a6eaaf24e7ef0a13a147
+Author: Yiqi Liu <yliu394@teach-node-02.CS.McGill.CA>
+Date:   Wed Apr 12 20:15:26 2023 -0400
+
+    this time it's really final
+
+commit 9e1b7ebf2b6e3cf8ef4f5b3489d6e3b9d93ec91d
+Author: Yanlin Zhu <yzhu445@teach-node-09.CS.McGill.CA>
+Date:   Wed Apr 12 20:09:33 2023 -0400
+
+    change the file name
+
+commit bdb0ce9eea6dce947bceba2a9969e7d07af0dda2
+Author: Yanlin Zhu <yzhu445@teach-node-09.CS.McGill.CA>
+Date:   Wed Apr 12 19:36:53 2023 -0400
+
+    final draft
+
+commit ba23bf0d8b18159c35d489ceed6c2f5566cf65f7
+Author: Yanlin Zhu <yzhu445@teach-node-09.CS.McGill.CA>
+Date:   Wed Apr 12 19:15:46 2023 -0400
+
+    fix some bugs, in Find()function
+
+commit 1a053acee212526ecb803b67c5dc67fb362aa352
+Author: Bohan Wang <bwang246@teach-node-06.CS.McGill.CA>
+Date:   Wed Apr 12 18:53:12 2023 -0400
+
+    Fix menu
+
+commit 29a6c043678b7a1524012eda4576b0266a190a97
+Author: Yiqi Liu <yliu394@teach-node-02.CS.McGill.CA>
+Date:   Wed Apr 12 18:46:02 2023 -0400
+
+    fixed mistakes in phone
+
+commit 2365a3a7248b4cd9a33ad68c636674fdbe1592a3
+Author: Yanlin Zhu <yzhu445@teach-node-09.CS.McGill.CA>
+Date:   Wed Apr 12 18:20:22 2023 -0400
+
+    finish the makefile and .h file
+
+commit 8ccc7eec845a431844d857f10924771a4b36463b
+Author: Yanlin Zhu <yzhu445@teach-node-09.CS.McGill.CA>
+Date:   Wed Apr 12 18:18:41 2023 -0400
+
+    include main.h
+
+commit a810f64f78e47bb7f31f6879547457e668aeafcf
+Author: Bohan Wang <bwang246@teach-node-06.CS.McGill.CA>
+Date:   Wed Apr 12 15:37:50 2023 -0400
+
+    ADD CREATERS AND DATE
+
+commit 530862e6ef793f97e62726b6843c53c9c8782636
+Author: Bohan Wang <bwang246@teach-node-06.CS.McGill.CA>
+Date:   Wed Apr 12 15:31:18 2023 -0400
+
+    UPDATE IPACS
+
+commit f5e43c0652367853ed880b3833d72b5d6d852bcb
+Author: Bohan Wang <bwang246@teach-node-06.CS.McGill.CA>
+Date:   Wed Apr 12 15:09:54 2023 -0400
+
+    UPDATE IPACS FOR MINI4PHONE.c
+
+commit c9857f1aa96cc2bc195b29105e90b029ac757698
+Author: Bohan Wang <bwang246@teach-node-06.CS.McGill.CA>
+Date:   Wed Apr 12 14:57:49 2023 -0400
+
+    UPDATE IPACS
+
+commit 21f8c48f82dd3d257d64992604a5d524c9cdbe6e
+Author: Yanlin Zhu <yzhu445@teach-node-09.CS.McGill.CA>
+Date:   Wed Apr 12 14:40:41 2023 -0400
+
+    test
+
+commit 9f3b9abf21217a5617b2d23f4cdfa26f2e9e540c
+Merge: e2a343f d6b83b5
+Author: Yanlin Zhu <yzhu445@teach-node-09.CS.McGill.CA>
+Date:   Wed Apr 12 14:39:04 2023 -0400
+
+    test
+
+commit d6b83b535bb28137fe98ee85c49eb038957cfe38
+Author: Bohan Wang <bwang246@teach-node-06.CS.McGill.CA>
+Date:   Wed Apr 12 14:19:39 2023 -0400
+
+    Update IPACS For Mini4main.c
+
+commit e2a343f92cb6cccd891cdac88c8664cfd867dfa0
+Author: Yanlin Zhu <yzhu445@teach-node-09.CS.McGill.CA>
+Date:   Wed Apr 12 14:03:42 2023 -0400
+
+    correct some code
+
+commit 2f4f2d9b1a31fe733fb0a52ecb7fefdc5e26d163
+Author: Yanlin Zhu <yzhu445@teach-node-09.CS.McGill.CA>
+Date:   Wed Apr 12 14:02:33 2023 -0400
+
+    finish the rest of main.c
+
+commit d71e4a4042e166bce2499e4b2c82a33e69063d67
+Author: Yanlin Zhu <yzhu445@teach-node-09.CS.McGill.CA>
+Date:   Wed Apr 12 14:01:21 2023 -0400
+
+    finish the fourth case in main.c
+
+commit ff80b6913cc800c79650606fe85fe3bef6771ba4
+Author: Yanlin Zhu <yzhu445@teach-node-09.CS.McGill.CA>
+Date:   Wed Apr 12 14:00:06 2023 -0400
+
+    finish the second case in main.c
+
+commit 8018c260bc42d04e95726b51d673cedbb70718ac
+Author: Yanlin Zhu <yzhu445@teach-node-09.CS.McGill.CA>
+Date:   Wed Apr 12 13:57:53 2023 -0400
+
+    finish the second case in main.c
+
+commit ed9b7af2989e7cc13e1754673171070e2b20c872
+Author: Bohan Wang <bwang246@teach-node-06.CS.McGill.CA>
+Date:   Wed Apr 12 13:57:21 2023 -0400
+
+    ADDED A COMMENT FOR DORC METHOD
+
+commit 43290d8526c8ebf9fa87cf6ffcf141be46921420
+Author: Yanlin Zhu <yzhu445@teach-node-09.CS.McGill.CA>
+Date:   Wed Apr 12 13:56:32 2023 -0400
+
+    finish the first case in main.c
+
+commit 4f6fc0c4d545032479fd449fc0a63c18359a2253
+Author: Yanlin Zhu <yzhu445@teach-node-09.CS.McGill.CA>
+Date:   Wed Apr 12 13:34:38 2023 -0400
+
+    add two helper functions in main.c
+
+commit eac0976a8fcb4dec2f1dc60eceacb6d1b8fbe927
+Author: Yiqi Liu <yliu394@teach-node-02.CS.McGill.CA>
+Date:   Wed Apr 12 13:02:13 2023 -0400
+
+    fixed all previous function to be functional with linkedlist
+
+commit 1db71c028105f77d1f3abb69b59d927cab7e550e
+Author: Yiqi Liu <yliu394@teach-node-02.CS.McGill.CA>
+Date:   Wed Apr 12 12:52:52 2023 -0400
+
+    message
+
+commit 23048269158b2b7fbc73a1475a46ebdf0b9d7849
+Author: Yiqi Liu <yliu394@teach-node-02.CS.McGill.CA>
+Date:   Wed Apr 12 12:49:05 2023 -0400
+
+    change
+
+commit f77ddd1def7e88b4605f55c068d3f838b56e846f
+Author: Yiqi Liu <yliu394@teach-node-02.CS.McGill.CA>
+Date:   Wed Apr 12 12:28:44 2023 -0400
+
+    change
+
+commit 46049638754b1dc8c89cae3ad2b4bfb2d7f956a1
+Author: Yiqi Liu <yliu394@teach-node-02.CS.McGill.CA>
+Date:   Sat Apr 8 20:27:31 2023 -0400
+
+    test
+
+commit 810c46ffaa8b825d9a37b082578d0fde0194cd12
+Author: Yiqi Liu <yliu394@teach-node-02.CS.McGill.CA>
+Date:   Sat Apr 8 19:29:33 2023 -0400
+
+    mm

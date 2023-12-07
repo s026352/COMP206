@@ -1,0 +1,3 @@
+C:/Users/bohan/Desktop/COMP 206/MINI4/mini4/cmake-build-debug/CMakeFiles/mini4.dir
+C:/Users/bohan/Desktop/COMP 206/MINI4/mini4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bohan/Desktop/COMP 206/MINI4/mini4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
